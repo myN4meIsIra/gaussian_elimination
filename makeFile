@@ -1,0 +1,2 @@
+gaussian_elimination: gaussian_elimination.c 
+	gcc -pthread -o gaussian_elim gaussian_elimination.c
